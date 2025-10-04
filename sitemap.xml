@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://omnitrix21.github.io/</loc>
+    <lastmod>2025-10-04T16:25:00+05:30</lastmod>
+  </url><url>
+    <loc>https://omnitrix21.github.io/rants/rant/</loc>
+    <lastmod>2025-10-04T16:25:00+05:30</lastmod>
+  </url><url>
+    <loc>https://omnitrix21.github.io/rants/</loc>
+    <lastmod>2025-10-04T16:25:00+05:30</lastmod>
+  </url><url>
     <loc>https://omnitrix21.github.io/tags/first-post/</loc>
     <lastmod>2025-10-04T10:00:00+05:30</lastmod>
   </url><url>
     <loc>https://omnitrix21.github.io/tags/introduction/</loc>
-    <lastmod>2025-10-04T10:00:00+05:30</lastmod>
-  </url><url>
-    <loc>https://omnitrix21.github.io/</loc>
     <lastmod>2025-10-04T10:00:00+05:30</lastmod>
   </url><url>
     <loc>https://omnitrix21.github.io/posts/my-first-post/</loc>
