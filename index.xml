@@ -15,12 +15,5 @@
       <guid>https://omnitrix21.github.io/rants/rant/</guid>
       <description>&lt;p&gt;Nothing worked out the way I wanted, and I just had to get this off my chest.&lt;br&gt;&#xA;Sometimes, a little rant is all you need to feel lighter.&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>My First Post</title>
-      <link>https://omnitrix21.github.io/posts/my-first-post/</link>
-      <pubDate>Sat, 04 Oct 2025 10:00:00 +0530</pubDate>
-      <guid>https://omnitrix21.github.io/posts/my-first-post/</guid>
-      <description>&lt;p&gt;This is my very first post on my new Hugo website using the &lt;strong&gt;Akhbaar theme&lt;/strong&gt;.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>
