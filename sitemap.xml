@@ -2,22 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://noctryl.github.io/posts/test/</loc>
-    <lastmod>2025-10-15T00:00:00+05:30</lastmod>
+    <loc>https://noctryl.github.io/posts/</loc>
+    <lastmod>2025-10-15T13:05:00+05:30</lastmod>
+  </url><url>
+    <loc>https://noctryl.github.io/</loc>
+    <lastmod>2025-10-15T13:05:00+05:30</lastmod>
   </url><url>
     <loc>https://noctryl.github.io/posts/mood-part-one/</loc>
-    <lastmod>2025-10-15T00:00:00+05:30</lastmod>
-  </url><url>
-    <loc>https://noctryl.github.io/posts/</loc>
     <lastmod>2025-10-15T00:00:00+05:30</lastmod>
   </url><url>
     <loc>https://noctryl.github.io/tags/retrospection/</loc>
     <lastmod>2025-10-15T00:00:00+05:30</lastmod>
   </url><url>
     <loc>https://noctryl.github.io/tags/</loc>
-    <lastmod>2025-10-15T00:00:00+05:30</lastmod>
-  </url><url>
-    <loc>https://noctryl.github.io/</loc>
     <lastmod>2025-10-15T00:00:00+05:30</lastmod>
   </url><url>
     <loc>https://noctryl.github.io/tags/story/</loc>

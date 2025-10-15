@@ -9,13 +9,6 @@
     <lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0530</lastBuildDate>
     <atom:link href="https://noctryl.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Italics Test</title>
-      <link>https://noctryl.github.io/posts/test/</link>
-      <pubDate>Wed, 15 Oct 2025 00:00:00 +0530</pubDate>
-      <guid>https://noctryl.github.io/posts/test/</guid>
-      <description>&lt;p&gt;This is &lt;em&gt;italic&lt;/em&gt; text.&lt;br&gt;&#xA;This is &lt;strong&gt;bold&lt;/strong&gt; text.  This is a &lt;em&gt;mix of italics and &lt;em&gt;nested emphasis&lt;/em&gt;&lt;/em&gt;. jiojoiojoj&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Mood — Part One</title>
       <link>https://noctryl.github.io/posts/mood-part-one/</link>
       <pubDate>Wed, 15 Oct 2025 00:00:00 +0530</pubDate>
