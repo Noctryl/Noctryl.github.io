@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on The Quiet Collapse</title>
+    <link>https://noctryl.github.io/tags/</link>
+    <description>Recent content in Tags on The Quiet Collapse</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0530</lastBuildDate>
+    <atom:link href="https://noctryl.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Retrospection</title>
+      <link>https://noctryl.github.io/tags/retrospection/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0530</pubDate>
+      <guid>https://noctryl.github.io/tags/retrospection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Story</title>
+      <link>https://noctryl.github.io/tags/story/</link>
+      <pubDate>Sun, 12 Oct 2025 12:35:00 +0530</pubDate>
+      <guid>https://noctryl.github.io/tags/story/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
