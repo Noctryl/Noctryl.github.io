@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://noctryl.github.io/posts/mood-final-part/</loc>
-    <lastmod>2025-10-15T11:05:00+05:30</lastmod>
+    <loc>https://noctryl.github.io/posts/limits/</loc>
+    <lastmod>2025-11-20T12:35:00+05:30</lastmod>
   </url><url>
     <loc>https://noctryl.github.io/posts/</loc>
-    <lastmod>2025-10-15T11:05:00+05:30</lastmod>
+    <lastmod>2025-11-20T12:35:00+05:30</lastmod>
   </url><url>
     <loc>https://noctryl.github.io/tags/retrospection/</loc>
-    <lastmod>2025-10-15T11:05:00+05:30</lastmod>
+    <lastmod>2025-11-20T12:35:00+05:30</lastmod>
   </url><url>
     <loc>https://noctryl.github.io/tags/</loc>
-    <lastmod>2025-10-15T11:05:00+05:30</lastmod>
+    <lastmod>2025-11-20T12:35:00+05:30</lastmod>
   </url><url>
     <loc>https://noctryl.github.io/</loc>
+    <lastmod>2025-11-20T12:35:00+05:30</lastmod>
+  </url><url>
+    <loc>https://noctryl.github.io/posts/mood-final-part/</loc>
     <lastmod>2025-10-15T11:05:00+05:30</lastmod>
   </url><url>
     <loc>https://noctryl.github.io/posts/mood-part-two/</loc>
@@ -34,6 +37,8 @@
   </url><url>
     <loc>https://noctryl.github.io/rants/</loc>
     <lastmod>2025-10-04T16:25:00+05:30</lastmod>
+  </url><url>
+    <loc>https://noctryl.github.io/posts/anger/</loc>
   </url><url>
     <loc>https://noctryl.github.io/categories/</loc>
   </url>
