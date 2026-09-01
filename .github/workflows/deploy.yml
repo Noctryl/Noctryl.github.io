@@ -46,8 +46,8 @@ jobs:
 
       - name: Copy site root media into the build
         run: |
-          for f in *.png *.jpg *.jpeg *.gif *.webp; do
-            [ -f "$f" ] && cp "$f" public/
+          for f in background.png footers.png bus.jpg; do
+            if [ -f "$f" ]; then cp "$f" public/; fi
           done
 
       - name: Upload Pages artifact
