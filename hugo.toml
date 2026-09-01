@@ -1,6 +1,9 @@
 baseURL = 'https://noctryl.github.io/'
 languageCode = 'en'
 title = 'The Quiet Collapse'
+theme = 'akhbaar'
+description = 'echoes of innerself?'
+enableRobotsTXT = true
 
 [[menus.main]]
 name = 'Home'
@@ -17,10 +20,10 @@ name = 'Tags'
 pageRef = '/tags'
 weight = 30
 
-[module]
-  [module.hugoVersion]
-    extended = false
-    min = "0.133.0"
+[params]
+  dateFormat = '2 Jan 2006'
+  subtitle = ''
+  mode = 'light'
 
 [markup]
   [markup.goldmark]
