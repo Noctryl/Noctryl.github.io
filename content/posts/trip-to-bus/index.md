@@ -1,9 +1,13 @@
 ---
+image: "/bus.jpg"
 title: "The bus."
 date: 2025-10-12T12:35:00+05:30
 description: "New day same old bus"
 tags: ["Story"]
 ---
+
+![The bus.](/bus.jpg)
+
 
 ---
 
