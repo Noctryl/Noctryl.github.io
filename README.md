@@ -9,3 +9,5 @@ Theme: `css-hugo-theming` (upstream).
 <!-- rebuild: fix single-post excerpt duplication -->
 
 <!-- rebuild: Chomsky masthead -->
+
+<!-- rebuild: load Chomsky webfont -->
