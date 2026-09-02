@@ -3,7 +3,7 @@ title: "The Attention Economy"
 date: 2026-09-03T00:35:00+05:30
 categories: ["thoughts"]
 tags: ["self discovery"]
-description: "A rabbit hole into social media, human hardwiring, and the attention economy."
+description: "fuck you big corps"
 ---
 
 It’s been a long time since I’ve written something. Lately, I've been struggling quite heavily with both my academic and personal life, especially with my social media addiction. It has been hampering almost every aspect of my life. How I think, how I speak, how I work, how I do practically everything.
