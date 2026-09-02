@@ -5,19 +5,19 @@ tags: ["self discovery"]
 description: "fuck you big corps"
 ---
 
-It’s been a long time since I’ve written something. Lately, I've been struggling quite heavily with both my academic and personal life, especially with my social media addiction. It has been hampering almost every aspect of my life. How I think, how I speak, how I work, how I do practically everything.
+It's been a while since I wrote anything here. I've been having a pretty rough time lately, both with studies and with everything outside them, and somehow my social media addiction has managed to creep into almost all of it.
 
-Sometimes it genuinely feels like so much of my life has become a byproduct of whatever algorithms these crony fucks keep pushing towards me.
+I notice it in stupidly small things. How I think. How I speak. How I work. How I do practically everything. Sometimes it genuinely feels like so much of my life has become a byproduct of whatever algorithms these crony fucks keep pushing towards me.
 
-Today, I somehow fell down a rabbit hole about the hardwiring of humans, and I came across some genuinely fascinating things. The fact that humans can be “hardwired” to behave or respond in certain ways, yet still have the ability to override those instincts and do something completely different, really caught my attention.
+Today, I somehow fell down a rabbit hole about the hardwiring of humans. I was reading about all these things humans are basically wired to do, and then about how we can still fight those instincts and do something completely different. That part genuinely fascinated me.
 
-Just thinking about how we've evolved as humans, and the things we've managed to do despite our biological tendencies, was fascinating.
+We've evolved with all these instincts for a reason, and yet we've managed to build things that go completely against them. We can override them. We can learn. We can adapt. We can do things our brains weren't exactly designed for.
 
-And then I went a little further.
+And then I kept reading.
 
-That's when things got much darker.
+That's when it got a lot less fascinating.
 
-I started reading about how modern companies are actually exploiting some of these very hardwired tendencies for profit.
+Modern companies are actually exploiting some of these very hardwired tendencies for profit.
 
 I already knew bits and pieces of this. But when I started reading about it properly, it honestly blew my mind.
 
@@ -27,7 +27,7 @@ That really fucked with me.
 
 The whole capitalism versus everything else debate is for another day. My point here is much narrower. It's about how we're being manipulated, nudged and exploited at different levels of our everyday lives.
 
-And there seems to be so much to unpack that it would probably take another three or four posts just to get through all of it.
+And there's so much to unpack here that it would probably take another three or four posts just to get through everything I kept finding.
 
 I was sick to my heart.
 
@@ -49,21 +49,17 @@ I never directly paid these companies any money. But in exchange for everything 
 
 **My attention. My time.**
 
-And I'm not trying to make that sound heroic or poetic. That's genuinely how it felt after reading all of this and looking at my own life.
+And I'm not trying to make that sound heroic or poetic. That's genuinely how it felt after reading all of this and then looking back at my own life.
 
 So I kept reading.
 
-I went back onto the internet with all this internalized rage and somehow fell even deeper into the rabbit hole. Every answer seemed to open another question.
+I went back onto the internet with all this internalized rage and somehow fell even deeper into the rabbit hole. Every answer seemed to open up another question. The more I understood, the more I started noticing things I'd previously just accepted as normal.
 
-Then I started wondering about something much more specific.
+Then I started thinking about something much more specific.
 
 **What exactly are they exploiting in us?**
 
-Why is it so damn difficult to put the phone down when I already know I've been scrolling for too long?
-
-Why does one notification make me want to check?
-
-Why does “one more video” so easily become an hour?
+Why is it so damn difficult to put the phone down when I already know I've been scrolling for too long? Why does one notification make me want to check? Why does “one more video” so easily become an hour?
 
 There had to be something underneath all of this.
 
