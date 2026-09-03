@@ -26,3 +26,5 @@ Theme: `css-hugo-theming` (upstream).
 <!-- rebuild: deepen canvas and brighten grid -->
 
 <!-- rebuild: final dark grid and white back button -->
+
+<!-- rebuild: apply latest theme changes -->
