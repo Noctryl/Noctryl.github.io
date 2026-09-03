@@ -6,11 +6,9 @@ Theme: `css-hugo-theming` (upstream).
 
 <!-- rebuild after theme hard reset -->
 
-<!-- rebuild: fix single-post excerpt duplication -->
-
-<!-- rebuild: Chomsky masthead -->
-
-<!-- rebuild: load Chomsky webfont -->
 
 
-<!-- rebuild: latest theme changes -->
+
+
+
+<!-- rebuild: 2026-09-03T09:07:47.291Z -->
