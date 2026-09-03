@@ -28,3 +28,5 @@ Theme: `css-hugo-theming` (upstream).
 <!-- rebuild: final dark grid and white back button -->
 
 <!-- rebuild: apply latest theme changes -->
+
+<!-- rebuild: after theme hard reset -->
