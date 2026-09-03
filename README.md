@@ -11,3 +11,6 @@ Theme: `css-hugo-theming` (upstream).
 <!-- rebuild: Chomsky masthead -->
 
 <!-- rebuild: load Chomsky webfont -->
+
+
+<!-- rebuild: latest theme changes -->
