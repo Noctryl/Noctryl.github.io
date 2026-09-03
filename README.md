@@ -20,3 +20,5 @@ Theme: `css-hugo-theming` (upstream).
 <!-- rebuild: trigger after theme selector fix -->
 
 <!-- rebuild: strengthen dark paper texture -->
+
+<!-- rebuild: prominent dark paper lines -->
