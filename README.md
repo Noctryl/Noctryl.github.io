@@ -22,3 +22,5 @@ Theme: `css-hugo-theming` (upstream).
 <!-- rebuild: prominent dark paper lines -->
 
 <!-- rebuild: fix dark paper grid rendering -->
+
+<!-- rebuild: deepen canvas and brighten grid -->
