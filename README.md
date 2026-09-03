@@ -24,3 +24,5 @@ Theme: `css-hugo-theming` (upstream).
 <!-- rebuild: fix dark paper grid rendering -->
 
 <!-- rebuild: deepen canvas and brighten grid -->
+
+<!-- rebuild: final dark grid and white back button -->
