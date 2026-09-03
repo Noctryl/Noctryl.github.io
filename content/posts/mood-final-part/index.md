@@ -72,4 +72,6 @@ I had acknowledged both sides. The *cookies*, the cream, the *iced tea*, the bit
 
 I opened my laptop. The bag lay next to it, silent but patient. The blank page stared back at me. And for the first time in these few months, I felt happy. I was writing not for validation, not for approval, not for anyone else - just to pour the *iced tea* and *cookies* onto the page, together, without apology.
 
+Mood(draft)
+
 And somehow, that felt like enough.
