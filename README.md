@@ -13,8 +13,6 @@ Theme: `css-hugo-theming` (upstream).
 
 <!-- rebuild: 2026-09-03T09:07:47.291Z -->
 
-<!-- dummy commit: 2026-09-03 -->
-
 <!-- dummy commit: 2026-09-03T09:20:00Z -->
 
 <!-- rebuild: trigger after theme selector fix -->
@@ -22,3 +20,5 @@ Theme: `css-hugo-theming` (upstream).
 <!-- rebuild: strengthen dark paper texture -->
 
 <!-- rebuild: prominent dark paper lines -->
+
+<!-- rebuild: fix dark paper grid rendering -->
