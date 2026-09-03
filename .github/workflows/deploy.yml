@@ -25,7 +25,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: Noctryl/css-hugo-theming
-          ref: 5934d83bd9ac5d15b0c25c41a44c4b15bed43792
+          ref: 21bf14705cf51771681ce842ba266f7023ad7c7a
           path: themes/akhbaar
 
       - name: Install Hugo
