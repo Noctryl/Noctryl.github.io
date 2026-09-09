@@ -4,7 +4,7 @@ date: 2026-09-10T00:37:47+05:30
 tags: ["Story"]
 ---
 
-I was wandering through the streets of Civil Lines when I noticed a small, oddly fascinating detail in the middle of everything else going on around me. The first thought that crossed my mind was, “holy fuck, this is so fucking cool.” But almost immediately, another thought followed—
+I was wandering through the streets of Civil Lines when I noticed a small, oddly fascinating detail in the middle of everything else going on around me. The first thought that crossed my mind was, “holy fuck, this is so fucking cool.” But almost immediately, another thought followed.
 
 *I’ve got to tell this to Sara. What’d her reaction be?*
 
@@ -34,7 +34,7 @@ I continued with my day.
 
 It was a very hectic day. I got late for the bus after my coaching was over, had to wait an extra ten minutes at the bus stop, only to find out that the AC of the bus I boarded wasn’t working properly. It was a rough day indeed.
 
-Lately, my days had started feeling a little like a badly shuffled deck of cards—you never quite knew what the next one was going to throw at you.
+Lately, my days had started feeling a little like a badly shuffled deck of cards. You never quite knew what the next one was going to throw at you.
 
 Tired and defeated, I was walking towards my home when my phone buzzed.
 
@@ -88,7 +88,7 @@ There was never a grand conversation where I suddenly thought, *okay, I understa
 
 The deeper I got to know her, the more I noticed how aware of herself she is, too.
 
-She knows she can be a lot. She has said it herself in a dozen different ways—that she overshares, that she gets clingy, that sometimes she becomes too much. There are moments when she seems almost embarrassed by how deeply attached she can get, as if she is standing outside her own body, watching herself and thinking, *haan, thoda zyada ho gaya.*
+She knows she can be a lot. She has said it herself in a dozen different ways. That she overshares, that she gets clingy, that sometimes she becomes too much. There are moments when she seems almost embarrassed by how deeply attached she can get, as if she is standing outside her own body, watching herself and thinking, *haan, thoda zyada ho gaya.*
 
 But I don't think the real fear is simply being “too much”. It is the possibility that someone might eventually decide they have had enough. That they will stop replying, start taking steps backwards, or quietly become less interested without ever explaining why.
 
@@ -174,7 +174,7 @@ She was crying on the other end of the line.
 
 Not just quietly upset, not the mild kind where you can just hear a slight fracture in someone's voice. She was properly, heavily crying, the kind of breathless sobbing where you can barely push the words past your teeth. I was still half anchored in sleep, so for a split second, my brain couldn't even process what was happening. I just remember the spike of panic, asking her what happened, why she was crying, what on earth had happened to her.
 
-She tried to force the words out despite the heavy sobbing—
+She tried to force the words out despite the heavy sobbing.
 
 "Candy died today, some idiot ran over his car on my candy"
 
@@ -244,6 +244,6 @@ Not why she had suddenly become difficult to read.
 
 Not whether I had somehow failed to figure her out.
 
-Just how a person can become so deeply woven into the background of your life that even on a completely ordinary street, in the middle of an otherwise forgettable day, your first instinct is still to turn towards them and think—
+Just how a person can become so deeply woven into the background of your life that even on a completely ordinary street, in the middle of an otherwise forgettable day, your first instinct is still to turn towards them and think.
 
 *I need to tell her this.*
