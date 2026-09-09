@@ -112,8 +112,6 @@ That is the part that always gets me, because then memory stops being just a per
 
 A tiny event that I might mentally toss into a box labelled *nothing special* can apparently get carefully filed away somewhere in her mind because, for whatever reason, it held weight for her. A stray sentence, a deeply ordinary Tuesday, something that happened during a quick break, some stupid detail that probably should not have survived the week in anybody's memory. Then, months later, it resurfaces. You never expect it. She always does.
 
-It made me realize that I had been looking at knowing someone the wrong way.
-
 But Saraa remembers things about me, too. She brings up moments I had completely forgotten I even told her about. Sometimes something I assumed had disappeared into the endless, grey pile of ordinary days suddenly gets handed back to me by her.
 
 So it isn't really just one person shining a flashlight on another. It is two people slowly building this strange, shared archive of each other without ever holding a meeting to decide on it.
@@ -183,8 +181,6 @@ There is something deeply revealing about caring for a living creature when ther
 He was never hers.
 
 She just cared.
-
-She fed him simply because his stomach was empty. She watched over him because he looked like he needed someone to do it. And when something happened to him, it affected her in a way I think most people would never expect from a dynamic that, technically, didn't even qualify as a relationship.
 
 That was the moment I understood that her heavy emotional current wasn't just something she reserved for her inner circle. It was the literal lens through which she seemed to view the world.
 
