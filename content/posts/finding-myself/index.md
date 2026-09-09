@@ -1,6 +1,7 @@
 ---
 title: "finding myself"
 date: 2026-02-21T13:00:00+05:30
+tags: ["self discovery"]
 description: "who am i"
 ---
 
