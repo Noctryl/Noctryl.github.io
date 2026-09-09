@@ -194,19 +194,7 @@ The random complaints, the sudden clinginess, the completely stupid arguments, t
 
 None of them, if you hold them up individually, are particularly earth-shattering. You would probably look at any single one of them in isolation and think, *that's it?*
 
-After a full year, though, there is a mountain of them. Enough tiny puzzle pieces, enough looped conversations, enough quiet moments where I foolishly thought I was just passing time talking to her, when apparently an entire foundation was being laid down underneath us.
-
 I don't think you ever really sit down and memorize a human being. You just collect enough scattered moments that eventually, they blur together and stop feeling like separate moments at all.
-
-And somewhere deep in the middle of all that mundane collecting, the two of us managed to build a language that did not exist before we collided.
-
-Not flawlessly.
-
-Not consciously.
-
-Just organically.
-
-A very specific language constructed out of recycled jokes, tired arguments, hoarded memories, weird habits, heavy pauses, things that no longer require a dictionary to explain, and tiny, fleeting moments that would mean absolutely zero to anyone walking past us.
 
 That is probably why the concept of time apart feels so strangely hollow, too.
 
