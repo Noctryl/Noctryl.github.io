@@ -30,7 +30,7 @@ I hated mornings, except for the parts when I’d have to talk to Sara.
 
 “Morning Sara,” I replied, with a slow smile.
 
-It was a very hectic day. I got late for the bus after my coaching was over, had to wait an extra ten minutes at the bus stop, only to find out that the AC of the bus I boarded wasn’t working properly. It was a rough day indeed.
+It was a very hectic day. I got late for the bus after my coaching was over, waited an extra ten minutes at the bus stop, and then found out the AC of the bus I boarded wasn’t working properly. It was a rough day indeed.
 
 Lately, my days had started feeling a little like a badly shuffled deck of cards. You never quite knew what the next one was going to throw at you.
 
@@ -80,7 +80,7 @@ I don't think I ever properly realized how much of Saraa I had already absorbed.
 
 Not the big things. Those are easy. Her friends, her family, the things she likes, the things she doesn't, the things that annoy her. I'm talking about the stupid little details that wouldn't mean a thing to anyone else. The way she types "Areee" or "Kyuu" or stretches a "Yayyyy" far beyond what the actual word requires. "Noooo." "Ummmm." At some point, those stopped looking like typed letters on a screen and started sounding exactly like her voice.
 
-There was never a grand conversation where I suddenly thought, *okay, I understand her now.* It was much quieter than that. Just a solid year of talking, arguing, dropping completely useless updates, stickers, complaints, random thoughts, and all those little fragmented pieces of life that kept filling the gaps between everything else. At some point, they stopped acting as isolated messages and started taking the shape of a whole person in my head.
+There was never a grand conversation where I suddenly thought, *okay, I understand her now.* It was much quieter than that. Just a solid year of talking, arguing, dropping completely useless updates, stickers, complaints, random thoughts, and all those little fragmented pieces of life. At some point, they stopped acting as isolated messages and started taking the shape of a whole person in my head.
 
 The deeper I got to know her, the more I noticed how aware of herself she is, too.
 
@@ -90,7 +90,7 @@ But I don't think the real fear is simply being “too much”. It is the possib
 
 That probably explains why she finds it so difficult to leave things unresolved. If something feels slightly off, she needs to know. If she thinks I have misunderstood her, she will explain herself again, sometimes clumsily, until she is sure I have actually understood what she meant.
 
-She is not particularly gifted at pretending she does not care. She will keep returning to something that matters to her, even after insisting she is done with it, and sometimes that persistence says more than whatever she is actually arguing about.
+She is not particularly gifted at pretending she does not care. She will keep returning to something that matters to her, even after insisting she is done with it.
 
 They just want to know they are still wanted.
 
@@ -100,7 +100,7 @@ She remembers.
 
 Not in that vague, polite *haan haan I remember that* sort of way, either.
 
-She once told me, almost as a casual throwaway fact, that she remembers really important events with sharp clarity. And then she went ahead and proved it. A casual chat about some old moment would suddenly turn into her recalling exactly where we were, what was happening in the background, some tiny physical detail that I would not have thought twice about on that given day. She remembers things that had apparently been sitting untouched on a shelf in her head for years.
+She once told me that she remembers really important events with sharp clarity. And then she proved it. A casual chat about some old moment would suddenly turn into her recalling exactly where we were, what was happening in the background, some tiny physical detail that I would not have thought twice about. She remembers things that had apparently been sitting untouched on a shelf in her head for years.
 
 And then she does something even more fascinating.
 
@@ -108,13 +108,13 @@ She wants to know whether I remember, too.
 
 That is the part that always gets me, because then memory stops being just a personal storage space. It becomes almost a measuring tape, a way of checking whether a fleeting moment actually mattered to both of us.
 
-A tiny event that I might mentally toss into a box labelled *nothing special* can apparently get carefully filed away somewhere in her mind because, for whatever reason, it held weight for her. A stray sentence, a deeply ordinary Tuesday, some stupid detail that probably should not have survived the week in anybody's memory. Then, months later, it resurfaces. You never expect it. She always does.
+A tiny event that I might mentally toss into a box labelled *nothing special* can get carefully filed away somewhere in her mind because, for whatever reason, it held weight for her. A stray sentence, a deeply ordinary Tuesday, some stupid detail that probably should not have survived the week. Then, months later, it resurfaces. You never expect it. She always does.
 
 But Saraa remembers things about me, too. She brings up moments I had completely forgotten I even told her about. Sometimes something I assumed had disappeared into the endless, grey pile of ordinary days suddenly gets handed back to me by her.
 
 So it isn't really just one person shining a flashlight on another. It is two people slowly building this strange, shared archive of each other without ever holding a meeting to decide on it.
 
-A random conversation. A passing sentence. Something whispered. A stupid inside joke. A pointless argument. A thing one of us muttered once and never gave a second thought to.
+A random conversation. A passing sentence. Something whispered. A stupid inside joke. A pointless argument.
 
 And then, somehow, it stubbornly stays.
 
@@ -128,13 +128,13 @@ Ours.
 
 Even the blunt way she cares has become something I instantly recognize.
 
-It is not always particularly polished. When I was stuck spiralling into negative thoughts, she was never going to deliver some grand, cinematic speech about the beauty of life. It was always more likely to be something stubbornly simple. "Don't think about negative things." Then, "30 mins kuch karlo." As if thirty minutes of doing any literal useful task could act as a rope to pull me out of my own head.
+It is not always particularly polished. When I was stuck spiralling into negative thoughts, she was never going to deliver some grand, cinematic speech. It was more likely to be something stubbornly simple. "Don't think about negative things." Then, "30 mins kuch karlo." As if thirty minutes of doing any literal useful task could pull me out of my own head.
 
-And when she talks about emotional support, she is surprisingly transparent about not always knowing how to execute it. She will admit that she desperately wants to be there, but does not necessarily know the exact right shape her support should take. And when I admit that I don't know either, she refuses to turn it into some heavy, insurmountable problem. Just, "You'll get better at it."
+And when she talks about emotional support, she is surprisingly transparent about not always knowing how to execute it. She wants to be there, but does not necessarily know the exact right shape her support should take. When I admit that I don't know either, she refuses to turn it into some heavy problem. Just, "You'll get better at it."
 
 There is something so inherently Saraa about that. She doesn't always have the perfect, scripted thing to say, but she still aggressively wants to be in your corner. Sometimes, just standing there is enough.
 
-Her affection arrives in strange forms. Sometimes as a strict instruction, sometimes as a nagging complaint, sometimes as deep concern wearing a mask of irritation. She can be wonderfully childish about a completely insignificant detail and then pivot to being fiercely serious about something that actually carries weight. She can interrogate a tiny thing for twenty minutes straight and then, without warning, be genuinely keeping up at night over a much larger worry.
+Her affection arrives in strange forms. Sometimes as a strict instruction, sometimes as a nagging complaint, sometimes as deep concern wearing a mask of irritation. She can be wonderfully childish about a completely insignificant detail and then pivot to being fiercely serious about something that actually carries weight.
 
 It isn't really inconsistency.
 
@@ -160,11 +160,11 @@ That is the strange part about knowing someone for a long time. A sentence is ne
 
 And the more I thought about the things Saraa remembered, the more I realized that this emotional hoarding wasn't limited to just the two of us. I had seen it clearly in the way she poured her care into things that, technically speaking, were not even hers to care about.
 
-One evening, I woke up to my phone ringing with her name. I don't even remember what pulled me out of sleep, I just remember seeing her name flashing on the screen, picking it up, and instantly feeling the air leave the room because I knew something was very wrong.
+One evening, I woke up to my phone ringing with her name. I don't even remember what pulled me out of sleep, I just remember seeing her name flashing on the screen, picking it up, and instantly knowing something was very wrong.
 
 She was crying on the other end of the line.
 
-Not just quietly upset. She was properly, heavily crying, and I was still half anchored in sleep, so for a split second, my brain couldn't even process what was happening. I just remember the spike of panic, asking her what happened.
+I was still half anchored in sleep, so for a split second, my brain couldn't even process what was happening. I just remember the spike of panic, asking her what happened.
 
 She tried to force the words out despite the heavy sobbing.
 
