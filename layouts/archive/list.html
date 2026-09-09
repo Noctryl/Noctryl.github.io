@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  {{ partial "header.html" . }}
+
+  <body>
+    <div class="container wrapper list">
+      {{ partial "head.html" . }}
+
+      <h2 class="page-title">Archives</h2>
+
+      <ul class="posts flat">
+        {{ range .Site.RegularPages.ByDate.Reverse }}
+        <li class="post">
+          {{ partial "post-preview.html" . }}
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+
+    {{ partial "footer.html" . }}
+  </body>
+</html>

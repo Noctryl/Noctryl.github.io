@@ -1,0 +1,35 @@
+baseURL = 'https://noctryl.github.io/'
+languageCode = 'en'
+title = 'The Quiet Collapse'
+theme = 'akhbaar'
+description = 'echoes of innerself?'
+enableRobotsTXT = true
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Archive'
+pageRef = '/archive'
+weight = 20
+
+[[menus.main]]
+name = 'Tags'
+pageRef = '/tags'
+weight = 30
+
+[params]
+  dateFormat = '2 Jan 2006'
+  subtitle = ''
+  mode = 'light'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = true
+      autoHeadingIDType = "github"
