@@ -88,7 +88,7 @@ She knows she can be a lot. She has said it herself in a dozen different ways. T
 
 But I don't think the real fear is simply being “too much”. It is the possibility that someone might eventually decide they have had enough. That they will stop replying, start taking steps backwards, or quietly become less interested without ever explaining why.
 
-That probably explains why she finds it so difficult to leave things unresolved. If something feels slightly off, she needs to know. If she thinks I have misunderstood her, she will explain herself again, sometimes clumsily, sometimes in five completely different ways, until she is sure I have actually understood what she meant.
+That probably explains why she finds it so difficult to leave things unresolved. If something feels slightly off, she needs to know. If she thinks I have misunderstood her, she will explain herself again, sometimes clumsily, until she is sure I have actually understood what she meant.
 
 She is not particularly gifted at pretending she does not care. She will keep returning to something that matters to her, even after insisting she is done with it, and sometimes that persistence says more than whatever she is actually arguing about.
 
@@ -186,7 +186,7 @@ She cares.
 
 Sometimes she cares so fiercely that even when the situation is entirely out of her hands and there is nothing left to be done, the feeling refuses to evaporate just because it would be easier if it did.
 
-The closer the 21st gets, the more I find myself constantly looking in the rearview mirror at all those tiny things I usually breeze right past without a second thought.
+The closer the 21st gets, the more I find myself looking in the rearview mirror at all those tiny things I usually breeze right past without a second thought.
 
 The random complaints, the sudden clinginess, the completely stupid arguments, the subtle things she desperately wanted me to notice, the fragments she remembered that I had totally lost, the things I secretly remembered without ever telling her, the inside jokes that only make sense inside our specific bubble now, the passing moments that felt completely ordinary on the day they happened and somehow don't feel the least bit ordinary anymore.
 
