@@ -108,7 +108,7 @@ She wants to know whether I remember, too.
 
 That is the part that always gets me, because then memory stops being just a personal storage space. It becomes almost a measuring tape, a way of checking whether a fleeting moment actually mattered to both of us.
 
-A tiny event that I might mentally toss into a box labelled *nothing special* can apparently get carefully filed away somewhere in her mind because, for whatever reason, it held weight for her. A stray sentence, a deeply ordinary Tuesday, something that happened during a quick break, some stupid detail that probably should not have survived the week in anybody's memory. Then, months later, it resurfaces. You never expect it. She always does.
+A tiny event that I might mentally toss into a box labelled *nothing special* can apparently get carefully filed away somewhere in her mind because, for whatever reason, it held weight for her. A stray sentence, a deeply ordinary Tuesday, some stupid detail that probably should not have survived the week in anybody's memory. Then, months later, it resurfaces. You never expect it. She always does.
 
 But Saraa remembers things about me, too. She brings up moments I had completely forgotten I even told her about. Sometimes something I assumed had disappeared into the endless, grey pile of ordinary days suddenly gets handed back to me by her.
 
