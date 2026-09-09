@@ -12,7 +12,7 @@ weight = 10
 
 [[menus.main]]
 name = 'Archive'
-pageRef = '/posts'
+pageRef = '/archive'
 weight = 20
 
 [[menus.main]]
