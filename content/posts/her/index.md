@@ -82,8 +82,6 @@ I don't think I ever properly realized how much of Saraa I had already absorbed.
 
 Not the big things. Those are easy. Her friends, her family, the things she likes, the things she doesn't, the things that annoy her. I'm talking about the stupid little details that wouldn't mean a thing to anyone else. The way she types "Areee" or "Kyuu" or stretches a "Yayyyy" far beyond what the actual word requires. "Noooo." "Ummmm." At some point, those stopped looking like typed letters on a screen and started sounding exactly like her voice.
 
-It is a strange thing, getting used to a person. You start recognizing habits that aren't really physical things at all: the exact number of extra letters, the specific rhythm of how she phrases something, the sudden drop when she goes completely quiet, the moment a perfectly ordinary sentence obviously carries way more weight than what is being said. After enough time, you stop reading only the words and start noticing the space around them. I think that is what happened with Saraa. None of it happened on purpose. There wasn't a single Tuesday where I decided I knew these things about her. They just settled into my brain somewhere along the way, like dust collecting in a quiet room.
-
 There was never a grand conversation where I suddenly thought, *okay, I understand her now.* It was much quieter than that. Just a solid year of talking, arguing, dropping completely useless updates, stickers, complaints, random thoughts, and all those little fragmented pieces of life that kept filling the gaps between everything else. At some point, they stopped acting as isolated messages and started taking the shape of a whole person in my head.
 
 The deeper I got to know her, the more I noticed how aware of herself she is, too.
@@ -116,8 +114,6 @@ A tiny event that I might mentally toss into a box labelled *nothing special* ca
 
 It made me realize that I had been looking at knowing someone the wrong way.
 
-I had always thought of it as the slow process of learning their patterns. Memorizing what makes them laugh, what ticks them off, what they do when they are exhausted, what they say when they run out of words, the subtle difference between when they are actually fine and when they are just claiming to be fine to avoid explaining themselves.
-
 But Saraa remembers things about me, too. She brings up moments I had completely forgotten I even told her about. Sometimes something I assumed had disappeared into the endless, grey pile of ordinary days suddenly gets handed back to me by her.
 
 So it isn't really just one person shining a flashlight on another. It is two people slowly building this strange, shared archive of each other without ever holding a meeting to decide on it.
@@ -134,7 +130,7 @@ Not just her language.
 
 Ours.
 
-There are things right now that only make sense inside whatever invisible borders the two of us have drawn together. Even the blunt way she cares has become something I instantly recognize.
+Even the blunt way she cares has become something I instantly recognize.
 
 It is not always particularly polished. When I was stuck spiralling into negative thoughts, she was never going to deliver some grand, cinematic speech about the beauty of life. It was always more likely to be something stubbornly simple. "Don't think about negative things." Then, "30 mins kuch karlo." As if thirty minutes of doing any literal useful task could act as a rope to pull me out of my own head.
 
@@ -182,8 +178,6 @@ She had been feeding him for a while, keeping an eye on him whenever she could, 
 
 I think that is the part that lodged itself in my chest, not because the tragedy itself was any less horrible, but because of what it meant to her. She had not lost a childhood pet she had grown up alongside. She had lost this random street dog she had actively chosen to care about, simply because his existence had become important to her routine. And even after he was gone, she couldn't just flip a switch and turn that affection off. She kept crying over him for days. She carried the loss around with her long after the evening itself had passed.
 
-I kept replaying that in my head afterwards.
-
 There is something deeply revealing about caring for a living creature when there is absolutely nothing tethering you to them. No legal obligation, no shared history you are supposed to honour, nothing you can point a finger at and say, *of course I cared, they belonged to me.*
 
 He was never hers.
@@ -197,10 +191,6 @@ That was the moment I understood that her heavy emotional current wasn't just so
 She cares.
 
 Sometimes she cares so fiercely that even when the situation is entirely out of her hands and there is nothing left to be done, the feeling refuses to evaporate just because it would be easier if it did.
-
-I can still perfectly recall the raw sound of her voice on that phone call.
-
-For a creature who wasn't even supposed to be hers, she had cared about that little street dog enough for his absence to genuinely hollow her out for a while.
 
 The closer the 21st gets, the more I find myself constantly looking in the rearview mirror at all those tiny, microscopic things I usually breeze right past without a second thought.
 
