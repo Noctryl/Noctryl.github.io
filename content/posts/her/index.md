@@ -30,8 +30,6 @@ I hated mornings, except for the parts when I’d have to talk to Sara.
 
 “Morning Sara,” I replied, with a slow smile.
 
-I continued with my day.
-
 It was a very hectic day. I got late for the bus after my coaching was over, had to wait an extra ten minutes at the bus stop, only to find out that the AC of the bus I boarded wasn’t working properly. It was a rough day indeed.
 
 Lately, my days had started feeling a little like a badly shuffled deck of cards. You never quite knew what the next one was going to throw at you.
@@ -166,13 +164,13 @@ One evening, I woke up to my phone ringing with her name. I don't even remember 
 
 She was crying on the other end of the line.
 
-Not just quietly upset, not the mild kind where you can just hear a slight fracture in someone's voice. She was properly, heavily crying, the kind of breathless sobbing where you can barely push the words past your teeth. I was still half anchored in sleep, so for a split second, my brain couldn't even process what was happening. I just remember the spike of panic, asking her what happened, why she was crying, what on earth had happened to her.
+Not just quietly upset. She was properly, heavily crying, and I was still half anchored in sleep, so for a split second, my brain couldn't even process what was happening. I just remember the spike of panic, asking her what happened.
 
 She tried to force the words out despite the heavy sobbing.
 
 "Candy died today, some idiot ran over his car on my candy"
 
-She had been feeding him for a while, keeping an eye on him whenever she could, and somehow, entirely by accident, she had tethered herself to him. He was not her pet. She hadn't put a collar on him or brought him inside her house. He was just a stray dog who happened to live on her street, one she had slowly started looking out for simply because she had a surplus of care to give.
+She had been feeding him for a while, keeping an eye on him whenever she could, and somehow, entirely by accident, she had tethered herself to him. He was not her pet. He was just a stray dog who happened to live on her street, one she had slowly started looking out for simply because she had a surplus of care to give.
 
 I think that is the part that lodged itself in my chest, not because the tragedy itself was any less horrible, but because of what it meant to her. She had not lost a childhood pet she had grown up alongside. She had lost this random street dog she had actively chosen to care about, simply because his existence had become important to her routine. And even after he was gone, she couldn't just flip a switch and turn that affection off. She kept crying over him for days. She carried the loss around with her long after the evening itself had passed.
 
@@ -188,7 +186,7 @@ She cares.
 
 Sometimes she cares so fiercely that even when the situation is entirely out of her hands and there is nothing left to be done, the feeling refuses to evaporate just because it would be easier if it did.
 
-The closer the 21st gets, the more I find myself constantly looking in the rearview mirror at all those tiny, microscopic things I usually breeze right past without a second thought.
+The closer the 21st gets, the more I find myself constantly looking in the rearview mirror at all those tiny things I usually breeze right past without a second thought.
 
 The random complaints, the sudden clinginess, the completely stupid arguments, the subtle things she desperately wanted me to notice, the fragments she remembered that I had totally lost, the things I secretly remembered without ever telling her, the inside jokes that only make sense inside our specific bubble now, the passing moments that felt completely ordinary on the day they happened and somehow don't feel the least bit ordinary anymore.
 
