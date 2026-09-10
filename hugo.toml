@@ -22,7 +22,7 @@ weight = 30
 
 [params]
   dateFormat = '2 Jan 2006'
-  subtitle = ''
+  subtitle = 'pouring my little deranged polished thoughts'
   mode = 'light'
 
 [markup]
