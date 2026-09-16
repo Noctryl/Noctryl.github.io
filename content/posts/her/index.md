@@ -96,9 +96,7 @@ They just want to know they are still wanted.
 
 There was also something else I noticed about her, although I don't think I caught it properly in the beginning.
 
-She remembers.
-
-Not in that vague, polite *haan haan I remember that* sort of way, either.
+She remembers, not in that vague, polite *haan haan I remember that* sort of way, either.
 
 She once told me that she remembers really important events with sharp clarity. And then she proved it. A casual chat about some old moment would suddenly turn into her recalling exactly where we were, what was happening in the background, some tiny physical detail that I would not have thought twice about. She remembers things that had apparently been sitting untouched on a shelf in her head for years.
 
@@ -116,17 +114,11 @@ So it isn't really just one person shining a flashlight on another. It is two pe
 
 A random conversation. A passing sentence. Something whispered. A stupid inside joke. A pointless argument.
 
-And then, somehow, it stubbornly stays.
-
 That is why the air between us does not always need translating anymore. There are callbacks I would never be able to explain to an outsider, little jokes that would sound completely unhinged outside the exact conversation that birthed them, a reaction that only makes sense because of a Tuesday three weeks ago, a digital sticker that isn't just a sticker anymore, a single sentence that carries the weight of an entire previous argument right behind it.
 
 We ended up developing a localized language without ever agreeing to do so.
 
-Not just her language.
-
-Ours.
-
-Even the blunt way she cares has become something I instantly recognize.
+Not just her language, but our..., even the blunt way she cares has become something I instantly recognize.
 
 It is not always particularly polished. When I was stuck spiralling into negative thoughts, she was never going to deliver some grand, cinematic speech. It was more likely to be something stubbornly simple. "Don't think about negative things." Then, "30 mins kuch karlo." As if thirty minutes of doing any literal useful task could pull me out of my own head.
 
@@ -174,11 +166,7 @@ She had been feeding him for a while, keeping an eye on him whenever she could, 
 
 I think that is the part that lodged itself in my chest, not because the tragedy itself was any less horrible, but because of what it meant to her. She had not lost a childhood pet she had grown up alongside. She had lost this random street dog she had actively chosen to care about, simply because his existence had become important to her routine. And even after he was gone, she couldn't just flip a switch and turn that affection off. She kept crying over him for days. She carried the loss around with her long after the evening itself had passed.
 
-There is something deeply revealing about caring for a living creature when there is absolutely nothing tethering you to them. No legal obligation, no shared history you are supposed to honour, nothing you can point a finger at and say, *of course I cared, they belonged to me.*
-
-He was never hers.
-
-She just cared.
+There is something deeply revealing about caring for a living creature when there is absolutely nothing tethering you to them. No legal obligation, no shared history you are supposed to honour, nothing you can point a finger at and say, *of course I cared, they belonged to me.* He was never hers, she just cared.
 
 That was the moment I understood that her heavy emotional current wasn't just something she reserved for her inner circle. It was the literal lens through which she seemed to view the world.
 
@@ -197,10 +185,6 @@ I don't think you ever really sit down and memorize a human being. You just coll
 That is probably why the concept of time apart feels so strangely hollow, too.
 
 There is already so much familiarity there: memories, inside jokes, recurring arguments, little shared routines, all of it. But a month or two of silence is still enough to make someone feel slightly out of focus when they have been a concrete fixture in your everyday life.
-
-Not a stranger.
-
-Just out of reach.
 
 And that is what makes looking at someone again after a long pause feel so entirely different. It is not about discovering who they are from scratch. It is about realizing just how much of their weight you have been silently carrying around in your pockets while they were not standing right there.
 
