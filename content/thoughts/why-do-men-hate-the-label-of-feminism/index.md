@@ -2,7 +2,6 @@
 title: "Why Do Men Hate the Label of Feminism?"
 date: 2026-10-30T20:33:00+05:30
 tags: ["feminism", "society"]
-description: "My parents never taught me about feminism. Maybe they themselves don't know the label."
 ---
 
 *My parents never taught me about feminism. Maybe they themselves don't know the label.*
