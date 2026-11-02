@@ -32,7 +32,7 @@ BRRRRRRRYNG!! The bell rang, slicing through my inner thoughts. The moment came.
 
 A collective sigh ran throughout the class. Everyone seemed either relieved or happy, but I wasn’t. I kept quiet.
 
-“How was your paper?” Diksha asked me.
+“How was your paper?” the girl sitting in front of me asked.
 
 “It was good,” I replied dryly. I wasn’t interested in any conversation. However, I thought it’d be unfair to be sad, as I’d see many of my friends for the last time, so I tried not to look too far into the future. I chatted with many people till I reached the exit gate. The exit was packed. Every parent was looking for their child. I went through the crowd and found my father.
 
