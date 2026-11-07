@@ -26,7 +26,7 @@ We have this rule in our family to sleep by 12. However, this doesn’t apply to
 *I turned off the lights, and then went to bed, covering myself up in the thick blanket.*
 *12:00 AM, the clock ticked.*
 
-India is a very lively country in general. You’d probably never feel bore here because soo much happen every single moment. It’s a perfect country to visit if you want to overload your sensory. However, winters have this distinct ability to slow everything down to literal stillness.
+India is a very lively country in general. You’d probably never feel bored here because so much happens every single moment. It’s a perfect country to visit if you want to overload your senses. However, winters have this distinct ability to slow everything down to literal stillness.
 
 *Tick, tick, tick, tick, The clock made noise loudly. It was evidently loud.*
 
@@ -52,16 +52,16 @@ Till then, my blanket had been warm enough. Now I could lay down and read it. I 
 I finished through halfway after three hours of reading. By then I was getting sleepy, but I made myself wide awake. I drank a glass of water.
 
 *Creak*
-A loud sound came from the adjacent room. I got scared and quickly turned of my laptop and curled up to bed. I knew it was my papa, because he had this habit to go to bathroom in early morning. After he went sleeping in his room, I checked the time, it said,
+A loud sound came from the adjacent room. I got scared and quickly turned off my laptop and curled up to bed. I knew it was my papa, because he had this habit to go to bathroom in early morning. After he went sleeping in his room, I checked the time, it said,
 6:30AM
 
-*Damn, I had been reading for almost 6 hours straight. I couldn’t believe myself I had skip the whole night without sleeping.* It was a big deal to me because I have rarely stayed awake till late night. But that day was different. I was soo hooked of the book that I forgot to sleep. I went to sleep at 7 and woke up at 10. 3 Hours of sleep, 6 Hours of reading. I felt accomplished that I finished the book in a single read. That was my singlehandedly best reading feat ever and I was soo proud of myself.
+*Damn, I had been reading for almost 6 hours straight. I couldn’t believe I had skipped the whole night without sleeping.* It was a big deal to me because I have rarely stayed awake till late night. But that day was different. I was soo hooked of the book that I forgot to sleep. I went to sleep at 7 and woke up at 10. 3 Hours of sleep, 6 Hours of reading. I felt accomplished that I finished the book in a single read. That was my singlehandedly best reading feat ever and I was soo proud of myself.
 
 That night, however, marked the beginning of a rather different relationship with books.
 
 That was a particularly important day for me.
 
-It’s been almost 3 years since that. I haven’t touched books after then, particularly in fiction or so, though I’ve read maybe 3-4 others.
+It’s been almost 3 years since that. I haven’t touched books since then, particularly in fiction or so, though I’ve read maybe 3-4 others.
 
 Now I occasionally write on my website. I thought it’d be somewhat easy as you could just pour whatever you’re thinking in your mind, give it a shape and write it. But as I actually sat down and began to write it, it posed a great dilemma to me- What to write. It’s more of an intellectual freeze. Having the idea of story itself is a great deal but evolving a whole plot around it requires heavy mental workout. As someone said before
 
@@ -69,10 +69,10 @@ Now I occasionally write on my website. I thought it’d be somewhat easy as you
 
 While writing non-fiction, authors often have inherent boundary and structure, but when they try to explore fiction, the boundary is shattered and there are infinite possibilities to write. I could write about my preparation, my childhood, or the books I had read. But when I tried to invent something that had never happened, I suddenly had nothing to say. It often leads to the paradox of having infinite choices to write but not finding an apt subject to write it.
 
-Having a taste for literature doesn't necessarily mean possessing the ability to write it. One can have a great taste in novels but when it comes writing first draft, it rarely matches the vivid, emotionally resonant version in your head. Bridging that gap requires turning off your internal critique long enough to produce a flawed draft that can actually be edited.
+Having a taste for literature doesn't necessarily mean possessing the ability to write it. One can have a great taste in novels but when it comes to writing the first draft, it rarely matches the vivid, emotionally resonant version in your head. Bridging that gap requires turning off your internal critique long enough to produce a flawed draft that can actually be edited.
 
 It’s worth noting that the profound creative isolation takes a huge toll on the human brain, it's not only tiring physically but psychologically. For long stretches of time, an author exists in a private reality that no one can see, validate or share. Believing that a non-existent world matters enough to spend months on requires an immense act of solitary faith, which often leads to deep self-doubt and loneliness.
 
-Perhaps the most difficult part of writing fiction, however, is its emotional vulnerability it exposes to the reader. You can’t write a character without showing authentic human emotions. You cannot depict genuine cruelty, shame, grief, or petty jealousy without exploring your own emotional library. Writing honest fiction often feels like you are exposing your own naked emotions, closely tied to anxiety of being misinterpreted, or worse, seen accurately. They often think readers would tie the characters’ darker impulses to authors’ own morality. Writing often bypasses logic and taps into the subconscious. Sometimes as the story develops an author unknowingly incorporates their own childhood grief, trauma or wanting something they don’t really have now. Many writers sit down to write an entertaining adventure only to realize halfway through that they are actually processing an old loss or a difficult relationship that is hard to process.
+Perhaps the most difficult part of writing fiction, however, is its emotional vulnerability it exposes to the reader. You can’t write a character without showing authentic human emotions. You cannot depict genuine cruelty, shame, grief, or petty jealousy without exploring your own emotional library. Writing honest fiction often feels like you are exposing your own naked emotions, closely tied to anxiety of being misinterpreted, or worse, seen accurately. They often think readers would tie the characters’ darker impulses to authors’ own morality. Writing often bypasses logic and taps into the subconscious. Sometimes, as a story develops, an author unknowingly incorporates their own childhood grief, trauma, or desire for something they don’t really have now. Many writers sit down to write an entertaining adventure only to realize halfway through that they are actually processing an old loss or a difficult relationship that is hard to process.
 
 Nevertheless I might try writing fiction in future because part of me still believes it’s an excellent way of self-expression or the limits of human imagination.
