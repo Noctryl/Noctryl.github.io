@@ -6,20 +6,20 @@
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>{{ .Site.Title }}</title>
+    <title>{{ .Site.Title | replaceRE "&rsquo;" "’" | htmlEscape }}</title>
     <link>{{ .Site.BaseURL }}</link>
-    <description>{{ .Site.Params.Subtitle }}</description>
+    <description>{{ .Site.Params.Subtitle | replaceRE "&rsquo;" "’" | htmlEscape }}</description>
     <language>{{ .Site.Language.LanguageCode }}</language>
     <generator>Hugo</generator>
     <atom:link href="{{ "index.xml" | absURL }}" rel="self" type="application/rss+xml" />
     {{- range $pages }}
     <item>
-      <title>{{ .Title }}</title>
+      <title>{{ .Title | replaceRE "&rsquo;" "’" | htmlEscape }}</title>
       <link>{{ .Permalink }}</link>
       <guid isPermaLink="true">{{ .Permalink }}</guid>
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
-      <description><![CDATA[{{ .Summary | safeHTML }}]]></description>
-      <content:encoded><![CDATA[{{ .Content | safeHTML }}]]></content:encoded>
+      <description><![CDATA[{{ .Summary | replaceRE "&rsquo;" "’" | safeHTML }}]]></description>
+      <content:encoded><![CDATA[{{ .Content | replaceRE "&rsquo;" "’" | safeHTML }}]]></content:encoded>
     </item>
     {{- end }}
   </channel>
