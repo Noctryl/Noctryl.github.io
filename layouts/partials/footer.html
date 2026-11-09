@@ -1,12 +1,82 @@
 <div class="footer">
-	<div class="footer-dots">
-		<img src="/footers.png" alt="footer">
-	</div>
-	<br>
-	<p>
-	Made with ❤️ and <a href="https://github.com/mangeshrex/akhbaar">अखबार!</a>
-	</p>
-	<p><a href="{{ "index.xml" | relURL }}">RSS</a></p>
+  <section class="newsletter-signup" aria-labelledby="newsletter-title">
+    <h3 id="newsletter-title">Letters, occasionally.</h3>
+    <p>New writing from The Quiet Collapse, delivered to your inbox.</p>
+    <form action="https://buttondown.com/api/emails/embed-subscribe/aaravvv" method="post" class="newsletter-form">
+      <label class="newsletter-label" for="newsletter-email">Email address</label>
+      <div class="newsletter-controls">
+        <input id="newsletter-email" type="email" name="email" placeholder="you@example.com" autocomplete="email" required>
+        <input type="hidden" name="embed" value="1">
+        <button type="submit">Subscribe</button>
+      </div>
+    </form>
+  </section>
+  <div class="footer-dots">
+    <img src="/footers.png" alt="footer">
+  </div>
+  <br>
+  <p>
+  Made with ❤️ and <a href="https://github.com/mangeshrex/akhbaar">अखबार!</a>
+  </p>
+  <p><a href="{{ "index.xml" | relURL }}">RSS</a></p>
 </div>
+
+<style>
+.newsletter-signup {
+  max-width: 560px;
+  margin: 0 auto 1.5rem;
+  padding: 0 1rem;
+  color: inherit;
+  text-align: center;
+}
+.newsletter-signup h3 {
+  margin: 0 0 .35rem;
+  font: inherit;
+  font-size: 1.35rem;
+  color: inherit;
+}
+.newsletter-signup > p {
+  margin: 0 0 .9rem;
+  font-size: .95rem;
+}
+.newsletter-form { margin: 0; }
+.newsletter-label {
+  display: block;
+  margin-bottom: .35rem;
+  text-align: left;
+  font-size: .9rem;
+}
+.newsletter-controls {
+  display: flex;
+  gap: .5rem;
+}
+.newsletter-controls input[type="email"] {
+  min-width: 0;
+  flex: 1;
+  padding: .65rem .8rem;
+  border: 1px solid currentColor;
+  border-radius: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-size: 1rem;
+}
+.newsletter-controls input[type="email"]::placeholder { color: inherit; opacity: .6; }
+.newsletter-controls button {
+  padding: .65rem 1rem;
+  border: 1px solid currentColor;
+  border-radius: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-size: 1rem;
+  cursor: pointer;
+}
+.newsletter-controls button:hover { background: currentColor; color: var(--newsletter-bg, #f5f2e8); }
+@media (max-width: 420px) {
+  .newsletter-controls { flex-direction: column; }
+  .newsletter-controls button { width: 100%; }
+}
+</style>
 
 <script>feather.replace()</script>
