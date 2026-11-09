@@ -33,3 +33,9 @@ weight = 30
       attribute = true
       autoHeadingID = true
       autoHeadingIDType = "github"
+
+[outputs]
+  home = ['html', 'rss']
+
+[services.rss]
+  limit = 20
