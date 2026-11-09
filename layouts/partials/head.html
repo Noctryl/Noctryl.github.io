@@ -1,45 +1,35 @@
-<head>
-	<meta charset="utf-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	{{- $title := .Title -}}
-	{{- $siteTitle := .Site.Title -}}
-	{{- if .IsHome -}}
-		<title>{{ $siteTitle }} {{ if isset .Site.Params "subtitle" }}- {{ .Site.Params.Subtitle }}{{ end }}</title>
-	{{- else -}}
-		<title>{{ $title }} - {{ $siteTitle }}</title>
-	{{- end -}}
-
-	{{- if isset .Site.Params "favicon" -}}
-		<link rel="icon" type="image/png" href={{ .Site.Params.favicon }} />
-	{{- end -}}
-
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<script>
-		(function() {
-			var savedTheme = localStorage.getItem("theme");
-			if (savedTheme === "dark" || (savedTheme !== "light" && window.matchMedia("(prefers-color-scheme: dark)").matches)) {
-				document.documentElement.setAttribute("data-theme", "dark");
-			}
-		})();
-	</script>
-	<link rel="alternate" type="application/rss+xml" href="{{ "index.xml" | absURL }}" title="{{ .Site.Title }}">
-	{{- template "_internal/schema.html" . -}}
-	{{- template "_internal/opengraph.html" . -}}
-	{{- template "_internal/twitter_cards.html" . -}}
-	<link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/chomsky" type="text/css"/>
-	<link rel="stylesheet" type="text/css" media="screen" href="{{ .Site.BaseURL }}css/normalize.css" />
-	<link rel="stylesheet" type="text/css" media="screen" href="{{ .Site.BaseURL }}css/main.css" />
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/syntax.css">
-	{{- if isset .Site.Params "customcss" }}
-		<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}{{ .Site.Params.customCSS }}" />
-	{{ end }}
-	{{ if and (isset .Site.Params "social") (isset .Site.Params "feathericonscdn") (eq .Site.Params.featherIconsCDN true) -}}
-		<script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
-	{{- else if or (isset .Site.Params "social") (eq .Site.Params.mode "auto") (eq .Site.Params.mode "dark") -}}
-		<script src="{{ .Site.BaseURL }}js/feather.min.js"></script>
-	{{ end }}
-		<script src="{{ .Site.BaseURL }}js/main.js"></script>
-	{{- if isset .Site.Params "customjs" -}}
-		{{- range .Site.Params.customJS }}<script src="{{ $.Site.BaseURL }}{{ . }}"></script>{{- end }}
-	{{- end }}
-</head>
+<div class="header">
+  <div>
+    <nav class="nav">
+      <div>
+        <ul class="flat">
+          {{ range .Site.Menus.main }}
+          <li>
+            <a href="{{ .URL }}">{{ .Name }}</a>
+          </li>
+          {{ end }}
+          <li>
+            <a href="#" id="theme-toggle">Dark</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+  <div class="header-div">
+    {{ if .Site.Params.Avatar }}
+    <div class="avatar">
+      <a href="{{ .Site.BaseURL }}">
+        <img src="{{ .Site.Params.Avatar | safeURL }}" alt="{{ .Site.Title }}" />
+      </a>
+    </div>
+    {{ end }}
+    <div class="text-div">
+      <h1 class="site-title">{{ .Site.Title }}</h1>
+      <div class="site-description">
+        {{- if isset .Site.Params "subtitle" -}}
+        <p>{{ .Site.Params.Subtitle | markdownify }}</p>
+        {{- end -}}
+      </div>
+    </div>
+  </div>
+</div>
