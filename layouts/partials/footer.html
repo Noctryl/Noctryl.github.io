@@ -2,27 +2,10 @@
   <section class="newsletter-signup" aria-labelledby="newsletter-title">
     <h3 id="newsletter-title">Letters, occasionally.</h3>
     <p>New writing from The Quiet Collapse, delivered to your inbox.</p>
-
-    <form
-      action="https://api.follow.it/subscribe"
-      method="get"
-      class="newsletter-form"
-      id="newsletter-form"
-    >
-      <label class="newsletter-label" for="newsletter-email">Email address</label>
-      <div class="newsletter-controls">
-        <input
-          id="newsletter-email"
-          type="email"
-          name="email"
-          placeholder="you@example.com"
-          autocomplete="email"
-          required
-        >
-        <button type="submit" id="newsletter-submit">Subscribe</button>
-      </div>
-    </form>
-    <p class="newsletter-note">You'll be redirected to follow.it to finish subscribing.</p>
+    <a class="newsletter-follow-link" href="https://follow.it/the-quiet-collapse?leanpub">
+      Subscribe by email
+    </a>
+    <p class="newsletter-note">Choose email delivery and confirm your subscription on follow.it.</p>
   </section>
 
   <div class="footer-dots">
@@ -53,49 +36,27 @@
   margin: 0 0 .9rem;
   font-size: .95rem;
 }
-.newsletter-form { margin: 0; }
-.newsletter-label {
-  display: block;
-  margin-bottom: .35rem;
-  text-align: left;
-  font-size: .9rem;
-}
-.newsletter-controls {
-  display: flex;
-  gap: .5rem;
-}
-.newsletter-controls input[type="email"] {
-  min-width: 0;
-  flex: 1;
-  padding: .65rem .8rem;
-  border: 1px solid currentColor;
-  border-radius: 0;
-  background: transparent;
-  color: inherit;
-  font: inherit;
-  font-size: 1rem;
-}
-.newsletter-controls input[type="email"]::placeholder { color: inherit; opacity: .6; }
-.newsletter-controls button {
+.newsletter-follow-link {
+  display: inline-block;
+  margin: .2rem 0 .35rem;
   padding: .65rem 1rem;
   border: 1px solid currentColor;
   border-radius: 0;
-  background: transparent;
   color: inherit;
+  text-decoration: none;
   font: inherit;
-  font-size: 1rem;
   cursor: pointer;
 }
-.newsletter-controls button:hover { background: currentColor; color: var(--newsletter-bg, #f5f2e8); }
+.newsletter-follow-link:hover {
+  background: currentColor;
+  color: var(--newsletter-bg, #f5f2e8);
+}
 .newsletter-note {
   margin-top: .55rem !important;
   font-size: .82rem !important;
   opacity: .75;
 }
-@media (max-width: 420px) {
-  .newsletter-controls { flex-direction: column; }
-  .newsletter-controls button { width: 100%; }
-}
+
 </style>
 
 <script>
