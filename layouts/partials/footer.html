@@ -2,12 +2,13 @@
   <section class="newsletter-signup" aria-labelledby="newsletter-title">
     <h3 id="newsletter-title">Letters, occasionally.</h3>
     <p>New writing from The Quiet Collapse, delivered to your inbox.</p>
-    <form action="https://api.follow.it/subscription-form/SDdFQkgzYWlTL2trS3JoUlFOOThib2dMWmlGcTdzVUNTSkZUamcrVmptcFRYaXFIYXRGeFBXWTc4aTk0eDNXVmxnRHZZUGtqRk5ZVk9NOG5MZzhKcW1rRkp4aW1BNDN1MUUzdDB3VjBqeldmQ3NkT3RQWjRNVUtHbGdsT1phT2J8bUVHYkpsd1lDTnVHb0IxSVA5eHM2YmUwUDhpSjNTV2dDc0dzRXlTbGIyWT0=/8" method="post" class="newsletter-form">
+    <form action="https://white-haze-f676.okand7946.workers.dev/" method="post" class="newsletter-form" id="newsletter-form">
       <label class="newsletter-label" for="newsletter-email">Email address</label>
       <div class="newsletter-controls">
         <input id="newsletter-email" type="email" name="email" placeholder="you@example.com" autocomplete="email" required>
         <button type="submit">Subscribe</button>
       </div>
+      <p class="newsletter-feedback" id="newsletter-feedback" role="status" aria-live="polite"></p>
     </form>
     <p class="newsletter-note">No noise. Just new writing, when there's something to share.</p>
   </section>
@@ -71,11 +72,71 @@
   cursor: pointer;
 }
 .newsletter-controls button:hover { background: currentColor; color: var(--newsletter-bg, #f5f2e8); }
-.newsletter-note { margin-top: .6rem !important; font-size: .82rem !important; opacity: .65; }
+ .newsletter-note { margin-top: .6rem !important; font-size: .82rem !important; opacity: .65; }
+.newsletter-feedback { margin: .65rem 0 0; font-size: .9rem; }
+.newsletter-feedback:empty { display: none; }
+.newsletter-feedback.feedback-info { opacity: .8; }
+.newsletter-feedback.feedback-error { color: #b33; }
+.newsletter-controls button:disabled { opacity: .6; cursor: wait; }
 @media (max-width: 420px) {
   .newsletter-controls { flex-direction: column; }
   .newsletter-controls button { width: 100%; }
 }
 </style>
 
-<script>feather.replace();</script>
+<script>
+feather.replace();
+
+(() => {
+  const form = document.getElementById("newsletter-form");
+  if (!form) return;
+
+  const emailInput = document.getElementById("newsletter-email");
+  const button = form.querySelector('button[type="submit"]');
+  const feedback = document.getElementById("newsletter-feedback");
+
+  form.addEventListener("submit", async (event) => {
+    event.preventDefault();
+
+    feedback.textContent = "";
+    feedback.className = "newsletter-feedback";
+    button.disabled = true;
+    button.textContent = "Submitting…";
+
+    try {
+      const response = await fetch(form.action, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ email: emailInput.value.trim() })
+      });
+
+      const result = await response.json().catch(() => ({}));
+
+      switch (result.code) {
+        case "CONFIRMATION_DISPATCHED":
+          feedback.textContent = result.message || "Check your inbox for a confirmation email.";
+          feedback.classList.add("feedback-info");
+          form.reset();
+          break;
+        case "ALREADY_SUBSCRIBED":
+          feedback.textContent = result.message || "This email is already subscribed.";
+          feedback.classList.add("feedback-info");
+          break;
+        case "INVALID_EMAIL":
+          feedback.textContent = result.message || "Please enter a valid email address.";
+          feedback.classList.add("feedback-error");
+          break;
+        default:
+          feedback.textContent = result.message || "We couldn't verify your subscription. Please try again.";
+          feedback.classList.add("feedback-error");
+      }
+    } catch {
+      feedback.textContent = "Could not reach the newsletter service. Please try again.";
+      feedback.classList.add("feedback-error");
+    } finally {
+      button.disabled = false;
+      button.textContent = "Subscribe";
+    }
+  });
+})();
+</script>
