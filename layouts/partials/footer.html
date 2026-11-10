@@ -9,7 +9,7 @@
         <button type="submit">Subscribe</button>
       </div>
     </form>
-    <iframe name="followit-response" title="Subscription response" hidden></iframe>
+    <iframe name="followit-response" title="Subscription response" class="newsletter-response-frame"></iframe>
     <p class="newsletter-status" aria-live="polite"></p>
     <p class="newsletter-note">No noise. Just new writing, when there's something to share.</p>
   </section>
@@ -75,6 +75,7 @@
 .newsletter-controls button:hover { background: currentColor; color: var(--newsletter-bg, #f5f2e8); }
 .newsletter-note { margin-top: .6rem !important; font-size: .82rem !important; opacity: .65; }
 .newsletter-status { margin: .6rem 0 0 !important; font-size: .9rem !important; }
+.newsletter-response-frame { position: absolute; width: 1px; height: 1px; border: 0; opacity: 0; pointer-events: none; }
 @media (max-width: 420px) {
   .newsletter-controls { flex-direction: column; }
   .newsletter-controls button { width: 100%; }
@@ -82,23 +83,24 @@
 </style>
 
 <script>
-  feather.replace();
-  (() => {
-    const form = document.querySelector(".newsletter-form");
-    const frame = document.querySelector("iframe[name=\"followit-response\"]");
-    const status = document.querySelector(".newsletter-status");
-    const button = form?.querySelector("button[type=submit]");
-    let submitted = false;
-    form?.addEventListener("submit", () => {
-      submitted = true;
-      if (button) { button.disabled = true; button.textContent = "Submitting…"; }
-      if (status) status.textContent = "Sending your subscription…";
-    });
-    frame?.addEventListener("load", () => {
-      if (!submitted) return;
-      if (status) status.textContent = "If your subscription was accepted, check your inbox for a confirmation email.";
-      if (button) { button.disabled = false; button.textContent = "Subscribe"; }
-      submitted = false;
-    });
-  })();
+(() => {
+  const form = document.querySelector(".newsletter-form");
+  const frame = document.querySelector('iframe[name="followit-response"]');
+  const status = document.querySelector(".newsletter-status");
+  const button = form?.querySelector('button[type="submit"]');
+  let submitted = false;
+
+  form?.addEventListener("submit", () => {
+    submitted = true;
+    if (button) button.textContent = "Sending…";
+    if (status) status.textContent = "Sending your subscription to Follow.it…";
+  });
+
+  frame?.addEventListener("load", () => {
+    if (!submitted) return;
+    if (status) status.textContent = "Follow.it replied. Check your inbox for a confirmation email.";
+    if (button) button.textContent = "Subscribe";
+    submitted = false;
+  });
+})();
 </script>
