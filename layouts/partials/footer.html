@@ -2,11 +2,12 @@
   <section class="newsletter-signup" aria-labelledby="newsletter-title">
     <h3 id="newsletter-title">Letters, occasionally.</h3>
     <p>New writing from The Quiet Collapse, delivered to your inbox.</p>
-    <form action="https://buttondown.com/api/emails/embed-subscribe/aaravvv" method="post" class="newsletter-form">
+    <form action="https://simple-newsletter.com/v1/subscriptions/" method="get" class="newsletter-form">
+      <input type="hidden" name="uri" value="https://noctryl.github.io/index.xml">
+      <input type="hidden" name="return" value="https://noctryl.github.io/">
       <label class="newsletter-label" for="newsletter-email">Email address</label>
       <div class="newsletter-controls">
         <input id="newsletter-email" type="email" name="email" placeholder="you@example.com" autocomplete="email" required>
-        <input type="hidden" name="embed" value="1">
         <button type="submit">Subscribe</button>
       </div>
     </form>
