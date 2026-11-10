@@ -2,10 +2,15 @@
   <section class="newsletter-signup" aria-labelledby="newsletter-title">
     <h3 id="newsletter-title">Letters, occasionally.</h3>
     <p>New writing from The Quiet Collapse, delivered to your inbox.</p>
-    <a class="newsletter-follow-link" href="https://follow.it/the-quiet-collapse?leanpub">
-      Subscribe by email
-    </a>
-    <p class="newsletter-note">Choose email delivery and confirm your subscription on follow.it.</p>
+
+    <form class="newsletter-form" action="https://api.follow.it/subscription-form/SDdFQkgzYWlTL2trS3JoUlFOOThib2dMWmlGcTdzVUNTSkZUamcrVmptcFRYaXFIYXRGeFBXWTc4aTk0eDNXVmxnRHZZUGtqRk5ZVk9NOG5MZzhKcW1rRkp4aW1BNDN1MUUzdDB3VjBqeldmQ3NkT3RQWjRNVUtHbGdsT1phT2J8bUVHYkpsd1lDTnVHb0IxSVA5eHM2YmUwUDhpSjNTV2dDc0dzRXlTbGIyWT0=/8" method="post">
+      <label class="newsletter-email-label" for="newsletter-email">Email address</label>
+      <div class="newsletter-form-row">
+        <input id="newsletter-email" type="email" name="email" required placeholder="you@example.com" autocomplete="email" spellcheck="false">
+        <button type="submit">Subscribe <span aria-hidden="true">→</span></button>
+      </div>
+    </form>
+    <p class="newsletter-note">No noise. Just new writing, when there's something to share.</p>
   </section>
 
   <div class="footer-dots">
@@ -27,36 +32,86 @@
   text-align: center;
 }
 .newsletter-signup h3 {
-  margin: 0 0 .35rem;
+  margin: 0 0 .4rem;
   font: inherit;
   font-size: 1.35rem;
+  font-weight: 600;
   color: inherit;
 }
 .newsletter-signup > p {
-  margin: 0 0 .9rem;
+  margin: 0 0 1rem;
   font-size: .95rem;
 }
-.newsletter-follow-link {
-  display: inline-block;
-  margin: .2rem 0 .35rem;
-  padding: .65rem 1rem;
+.newsletter-form {
+  width: 100%;
+  margin: 1.25rem auto .75rem;
+  text-align: left;
+}
+.newsletter-email-label {
+  display: block;
+  margin-bottom: .4rem;
+  font-size: .82rem;
+  opacity: .8;
+}
+.newsletter-form-row {
+  display: flex;
+  align-items: stretch;
+  gap: .5rem;
+}
+.newsletter-form input[type="email"] {
+  flex: 1 1 auto;
+  min-width: 0;
+  height: 46px;
+  padding: .7rem .85rem;
   border: 1px solid currentColor;
   border-radius: 0;
+  background: transparent;
   color: inherit;
-  text-decoration: none;
   font: inherit;
-  cursor: pointer;
+  font-size: .95rem;
+  box-shadow: none;
 }
-.newsletter-follow-link:hover {
+.newsletter-form input[type="email"]::placeholder {
+  color: inherit;
+  opacity: .5;
+}
+.newsletter-form input[type="email"]:focus {
+  outline: 2px solid currentColor;
+  outline-offset: 2px;
+}
+.newsletter-form button {
+  flex: 0 0 auto;
+  min-height: 46px;
+  padding: .7rem 1rem;
+  border: 1px solid currentColor;
+  border-radius: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-size: .92rem;
+  cursor: pointer;
+  transition: background-color .18s ease, color .18s ease;
+}
+.newsletter-form button:hover {
   background: currentColor;
-  color: var(--newsletter-bg, #f5f2e8);
+  color: var(--newsletter-hover-text, Canvas);
+}
+.newsletter-form button span {
+  margin-left: .25rem;
 }
 .newsletter-note {
-  margin-top: .55rem !important;
+  margin-top: .6rem !important;
   font-size: .82rem !important;
-  opacity: .75;
+  opacity: .65;
 }
-
+@media (max-width: 420px) {
+  .newsletter-form-row {
+    flex-direction: column;
+  }
+  .newsletter-form button {
+    width: 100%;
+  }
+}
 </style>
 
 <script>
