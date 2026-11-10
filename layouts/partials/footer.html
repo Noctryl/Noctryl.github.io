@@ -2,17 +2,41 @@
   <section class="newsletter-signup" aria-labelledby="newsletter-title">
     <h3 id="newsletter-title">Letters, occasionally.</h3>
     <p>New writing from The Quiet Collapse, delivered to your inbox.</p>
-    <form action="https://simple-newsletter.com/v1/subscriptions/" method="get" class="newsletter-form" id="newsletter-form">
-      <input type="hidden" name="uri" value="https://noctryl.github.io/index.xml">
-      <input type="hidden" name="return" value="https://noctryl.github.io/">
+
+    <!-- follow.it response loads here so the reader stays on this page -->
+    <iframe
+      name="followit-newsletter-frame"
+      id="followit-newsletter-frame"
+      title="Newsletter subscription response"
+      class="newsletter-hidden-frame"
+      aria-hidden="true"
+      tabindex="-1"
+    ></iframe>
+
+    <form
+      action="https://api.follow.it/subscription-form/SDdFQkgzYWlTL2trS3JoUlFOOThib2dMWmlGcTdzVUNTSkZUamcrVmptcFRYaXFIYXRGeFBXWTc4aTk0eDNXVmxnRHZZUGtqRk5ZVk9NOG5MZzhKcW1rRkp4aW1BNDN1MUUzdDB3VjBqeldmQ3NkT3RQWjRNVUtHbGdsT1phT2J8bUVHYkpsd1lDTnVHb0IxSVA5eHM2YmUwUDhpSjNTV2dDc0dzRXlTbGIyWT0=/8"
+      method="post"
+      target="followit-newsletter-frame"
+      class="newsletter-form"
+      id="newsletter-form"
+    >
       <label class="newsletter-label" for="newsletter-email">Email address</label>
       <div class="newsletter-controls">
-        <input id="newsletter-email" type="email" name="email" placeholder="you@example.com" autocomplete="email" required>
+        <input
+          id="newsletter-email"
+          type="email"
+          name="email"
+          placeholder="you@example.com"
+          autocomplete="email"
+          required
+        >
         <button type="submit" id="newsletter-submit">Subscribe</button>
       </div>
       <p id="newsletter-message" role="status" aria-live="polite" hidden></p>
     </form>
+    <p class="newsletter-note">You'll receive a confirmation email to complete your subscription.</p>
   </section>
+
   <div class="footer-dots">
     <img src="/footers.png" alt="footer">
   </div>
@@ -75,6 +99,23 @@
   cursor: pointer;
 }
 .newsletter-controls button:hover { background: currentColor; color: var(--newsletter-bg, #f5f2e8); }
+.newsletter-controls button:disabled { opacity: .6; cursor: wait; }
+.newsletter-hidden-frame {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  border: 0;
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  overflow: hidden;
+  white-space: nowrap;
+}
+.newsletter-note {
+  margin-top: .55rem !important;
+  font-size: .82rem !important;
+  opacity: .75;
+}
+#newsletter-message { margin-top: .65rem; font-size: .9rem; }
 @media (max-width: 420px) {
   .newsletter-controls { flex-direction: column; }
   .newsletter-controls button { width: 100%; }
@@ -84,37 +125,30 @@
 <script>
 (() => {
   const form = document.getElementById("newsletter-form");
-  if (!form) return;
+  const iframe = document.getElementById("followit-newsletter-frame");
+  if (!form || !iframe) return;
+
   const message = document.getElementById("newsletter-message");
   const button = document.getElementById("newsletter-submit");
+  const email = document.getElementById("newsletter-email");
+  let submitted = false;
 
-  form.addEventListener("submit", async (event) => {
-    event.preventDefault();
-    const email = form.querySelector('input[name="email"]').value.trim();
-    if (!email) return;
-
+  form.addEventListener("submit", () => {
+    submitted = true;
     button.disabled = true;
     button.textContent = "Submitting…";
     message.hidden = false;
     message.textContent = "Submitting your subscription…";
+  });
 
-    try {
-      // Simple Newsletter does not document a browser-readable CORS API.
-      // no-cors sends the request but deliberately hides the response.
-      await fetch(form.action + "?" + new URLSearchParams({
-        uri: form.querySelector('input[name="uri"]').value,
-        email,
-        return: form.querySelector('input[name="return"]').value
-      }), { method: "GET", mode: "no-cors" });
-
-      message.textContent = "Request sent. Please check your inbox for the confirmation email.";
-      form.querySelector('input[name="email"]').value = "";
-    } catch (error) {
-      message.textContent = "Couldn't submit right now. Please try again.";
-    } finally {
-      button.disabled = false;
-      button.textContent = "Subscribe";
-    }
+  iframe.addEventListener("load", () => {
+    if (!submitted) return;
+    submitted = false;
+    button.disabled = false;
+    button.textContent = "Subscribe";
+    message.textContent = "Form submitted. Please check your inbox and confirm your subscription.";
+    email.value = "";
   });
 })();
-feather.replace()</script>
+feather.replace();
+</script>
