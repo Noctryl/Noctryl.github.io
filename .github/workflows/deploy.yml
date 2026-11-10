@@ -45,6 +45,24 @@ jobs:
         run: |
           hugo --cleanDestinationDir --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
 
+      - name: Inject and verify follow.it ownership tag
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          page = Path("public/index.html")
+          html = page.read_text(encoding="utf-8")
+          tag = '<meta name="follow.it-verification-code" content="YAXMex1qqAnJlq5tjvzx">'
+          if tag not in html:
+              if "<head>" not in html:
+                  raise SystemExit("Could not find <head> in public/index.html")
+              html = html.replace("<head>", "<head>" + tag, 1)
+              page.write_text(html, encoding="utf-8")
+          if tag not in page.read_text(encoding="utf-8"):
+              raise SystemExit("follow.it verification tag missing after injection")
+          print("Verified follow.it meta tag in public/index.html")
+          PY
+
       - name: Copy site root media into the build
         run: |
           for f in background.png footers.png bus.jpg; do
