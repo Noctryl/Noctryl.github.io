@@ -2,14 +2,15 @@
   <section class="newsletter-signup" aria-labelledby="newsletter-title">
     <h3 id="newsletter-title">Letters, occasionally.</h3>
     <p>New writing from The Quiet Collapse, delivered to your inbox.</p>
-    <form action="https://simple-newsletter.com/v1/subscriptions/" method="get" class="newsletter-form">
+    <form action="https://simple-newsletter.com/v1/subscriptions/" method="get" class="newsletter-form" id="newsletter-form">
       <input type="hidden" name="uri" value="https://noctryl.github.io/index.xml">
       <input type="hidden" name="return" value="https://noctryl.github.io/">
       <label class="newsletter-label" for="newsletter-email">Email address</label>
       <div class="newsletter-controls">
         <input id="newsletter-email" type="email" name="email" placeholder="you@example.com" autocomplete="email" required>
-        <button type="submit">Subscribe</button>
+        <button type="submit" id="newsletter-submit">Subscribe</button>
       </div>
+      <p id="newsletter-message" role="status" aria-live="polite" hidden></p>
     </form>
   </section>
   <div class="footer-dots">
@@ -80,4 +81,40 @@
 }
 </style>
 
-<script>feather.replace()</script>
+<script>
+(() => {
+  const form = document.getElementById("newsletter-form");
+  if (!form) return;
+  const message = document.getElementById("newsletter-message");
+  const button = document.getElementById("newsletter-submit");
+
+  form.addEventListener("submit", async (event) => {
+    event.preventDefault();
+    const email = form.querySelector('input[name="email"]').value.trim();
+    if (!email) return;
+
+    button.disabled = true;
+    button.textContent = "Submitting…";
+    message.hidden = false;
+    message.textContent = "Submitting your subscription…";
+
+    try {
+      // Simple Newsletter does not document a browser-readable CORS API.
+      // no-cors sends the request but deliberately hides the response.
+      await fetch(form.action + "?" + new URLSearchParams({
+        uri: form.querySelector('input[name="uri"]').value,
+        email,
+        return: form.querySelector('input[name="return"]').value
+      }), { method: "GET", mode: "no-cors" });
+
+      message.textContent = "Request sent. Please check your inbox for the confirmation email.";
+      form.querySelector('input[name="email"]').value = "";
+    } catch (error) {
+      message.textContent = "Couldn't submit right now. Please try again.";
+    } finally {
+      button.disabled = false;
+      button.textContent = "Subscribe";
+    }
+  });
+})();
+feather.replace()</script>
