@@ -46,7 +46,7 @@ Initially, Mary told him he was stationed in Italy, only later on she told him t
 
 At first, Roger thought perhaps being good enough, doing enough, becoming enough could somehow bring back the person who had disappeared.
 
-When Mary told him about his father’s death—he refused to believe it. He imagined going to Italy himself, first with a tractor, then with a double-decker bus, vehicles powerful enough in his childhood imagination, to bring his father back.
+When Mary told him about his father’s death–he refused to believe it. He imagined going to Italy himself, first with a tractor, then with a double-decker bus, vehicles powerful enough in his childhood imagination, to bring his father back.
 
 He didn’t understand the finality of death yet, believing there might still be something he could do to bring him home. He tried overturning what adults described him as irreversible.
 
@@ -60,7 +60,7 @@ He mourned an entire relationship that never got chance to exist.
 
 In 2000 Guitar World interview, he described a recurring dream in which he had killed someone and was waiting to be punished. Later on, during therapy he came to understand that on some subconscious level, he had felt that he had killed his father.
 
-And his reasoning was devastatingly simple—
+And his reasoning was devastatingly simple–
 
 *I was born, and he died.*
 
@@ -70,7 +70,7 @@ Later on in his life, Waters joined college, left it and pursued music eventuall
 
 In 1971, Pink Floyd recorded their music in the empty amphitheatre of Pompeii, in Italy naming it *Live at Pompeii*, which is the pinnacle of rock performances in my opinion.
 
-The band Pink Floyd performed the song, *A Saucerful of Secrets*. It was divided into four movements—Something Else, Syncopated Pandemonium, Storm Signal and the Celestial Voices.
+The band Pink Floyd performed the song, *A Saucerful of Secrets*. It was divided into four movements–Something Else, Syncopated Pandemonium, Storm Signal and the Celestial Voices.
 
 The song begins with a heavy bassline, depicting its dark, atmospherically buildup. The opening feels strangely unsettled. Cymbals ring faintly in the background, the organ sounds distant, and little fragments of music emerge without ever quite forming into anything. You keep waiting for the music to settle, but it never really does. Something feels wrong, although you can’t quite tell what.
 
@@ -78,13 +78,13 @@ I interpret it as the world slowly losing its ability to keep the peace. Leaders
 
 The war hasn’t begun physically, but its possibility has already begun to dominate everything, people preparing to live in bunkers, leaders hiding in their safe havens, military drills and what not.
 
-With a quick comes the second movement—Syncopated Pandemonium—mobilization and the battlefield.
+With a quick comes the second movement–Syncopated Pandemonium–mobilization and the battlefield.
 
 Then comes the eruption.
 
 The percussion becomes aggressive, the guitar produces screechy and distorted sounds, and the music develops into a dense, chaotic collision.
 
-Nick Mason’s drumming becomes the physical force driving the whole song now—repeated drum notes—as if signifying the march and mobilization of military. The repeated gong strikes sound like an announcement that the war has begun. Armies are moving, artillery is firing, and the battlefield is no longer something distant or imagined. People were filled with rages, blood on their head to kill the other side soldiers without even knowing or having personal grudge with them.
+Nick Mason’s drumming becomes the physical force driving the whole song now–repeated drum notes–as if signifying the march and mobilization of military. The repeated gong strikes sound like an announcement that the war has begun. Armies are moving, artillery is firing, and the battlefield is no longer something distant or imagined. People were filled with rages, blood on their head to kill the other side soldiers without even knowing or having personal grudge with them.
 
 But the music quickly exceeds the repetitiveness of a march.
 
@@ -94,7 +94,7 @@ The distorted guitar and crashing piano sounds don’t They sound like everythin
 
 Whatever ideas brought these people to war, they weren’t on their minds now. The fighting has taken over, and nobody seems capable of stopping it.
 
-Then comes the third movement—Storm Signal—the battlefield after the battle.
+Then comes the third movement–Storm Signal–the battlefield after the battle.
 
 This is the most disturbing transition of the song.
 
@@ -104,7 +104,7 @@ The war is over, firing is stopped, but the smoke hasn’t disappeared. There’
 
 The silence offers no answers. We don’t know whether the war was worth fighting… whether the sacrifices accomplished anything, or whether the people who died ever understood what they were dying for.
 
-From this tragic scenario, then comes the celestial voices—**the mourning of the dead**
+From this tragic scenario, then comes the celestial voices–**the mourning of the dead**
 
 The final section is almost holy its character. Richard Wright’s organ establishes a slow, church chord progression.
 
