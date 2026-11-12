@@ -90,7 +90,7 @@ But the music quickly exceeds the repetitiveness of a march.
 
 It becomes pandemonium.
 
-The distorted guitar and crashing piano sounds don’t They sound like everything falling apart. The ideological conflicts turned into something devastating, the physical violence and murdering each other.
+The distorted guitar and crashing piano sound like everything is falling apart. The ideological conflicts have turned into something devastating: physical violence and people murdering each other.
 
 Whatever ideas brought these people to war, they weren’t on their minds now. The fighting has taken over, and nobody seems capable of stopping it.
 
