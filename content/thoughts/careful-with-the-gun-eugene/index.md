@@ -1,6 +1,6 @@
 ---
 title: "Careful With the Gun, Eugene"
-date: 2026-11-12T16:00:00+05:30
+date: 2026-11-12T12:00:00+05:30
 tags: ["thoughts"]
 ---
 
