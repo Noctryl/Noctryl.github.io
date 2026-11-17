@@ -1,7 +1,9 @@
 ---
 title: "JEE and its dilemma"
 date: 2026-11-17T13:20:11+05:30
+tags: ["retrospective"]
 ---
+
 
 It’s the first of April, 2025.
 
